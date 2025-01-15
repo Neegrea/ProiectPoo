@@ -1,0 +1,14 @@
+D:\Faculta\An 2\P.O.O\Proiect POO\CinematografApp\bin\Debug\net8.0\CinematografApp.exe
+D:\Faculta\An 2\P.O.O\Proiect POO\CinematografApp\bin\Debug\net8.0\CinematografApp.deps.json
+D:\Faculta\An 2\P.O.O\Proiect POO\CinematografApp\bin\Debug\net8.0\CinematografApp.runtimeconfig.json
+D:\Faculta\An 2\P.O.O\Proiect POO\CinematografApp\bin\Debug\net8.0\CinematografApp.dll
+D:\Faculta\An 2\P.O.O\Proiect POO\CinematografApp\bin\Debug\net8.0\CinematografApp.pdb
+D:\Faculta\An 2\P.O.O\Proiect POO\CinematografApp\obj\Debug\net8.0\CinematografApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculta\An 2\P.O.O\Proiect POO\CinematografApp\obj\Debug\net8.0\CinematografApp.AssemblyInfoInputs.cache
+D:\Faculta\An 2\P.O.O\Proiect POO\CinematografApp\obj\Debug\net8.0\CinematografApp.AssemblyInfo.cs
+D:\Faculta\An 2\P.O.O\Proiect POO\CinematografApp\obj\Debug\net8.0\CinematografApp.csproj.CoreCompileInputs.cache
+D:\Faculta\An 2\P.O.O\Proiect POO\CinematografApp\obj\Debug\net8.0\CinematografApp.dll
+D:\Faculta\An 2\P.O.O\Proiect POO\CinematografApp\obj\Debug\net8.0\refint\CinematografApp.dll
+D:\Faculta\An 2\P.O.O\Proiect POO\CinematografApp\obj\Debug\net8.0\CinematografApp.pdb
+D:\Faculta\An 2\P.O.O\Proiect POO\CinematografApp\obj\Debug\net8.0\CinematografApp.genruntimeconfig.cache
+D:\Faculta\An 2\P.O.O\Proiect POO\CinematografApp\obj\Debug\net8.0\ref\CinematografApp.dll

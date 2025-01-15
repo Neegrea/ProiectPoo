@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinematografApp", "CinematografApp.csproj", "{6656F22F-0BC3-4F99-8EFB-6F3F5A76A78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6656F22F-0BC3-4F99-8EFB-6F3F5A76A78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6656F22F-0BC3-4F99-8EFB-6F3F5A76A78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6656F22F-0BC3-4F99-8EFB-6F3F5A76A78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6656F22F-0BC3-4F99-8EFB-6F3F5A76A78C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3E3F8AA-4189-4D93-B9FE-8C402C64E402}
+	EndGlobalSection
+EndGlobal
